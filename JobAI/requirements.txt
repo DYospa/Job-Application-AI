@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+pypdf2
+python-dotenv
+pytest
+dotenv
