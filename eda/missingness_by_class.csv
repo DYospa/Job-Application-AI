@@ -1,0 +1,11 @@
+,real_%missing,fraud_%missing
+title,1.2,0.0
+company,19.7,4.1
+location,17.5,0.1
+description,0.0,0.0
+employment_type,19.1,1.4
+experience,38.8,96.8
+salary,68.9,4.3
+fraudulent,0.0,0.0
+source,0.0,0.0
+label_source,0.0,0.0

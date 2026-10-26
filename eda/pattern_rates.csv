@@ -1,0 +1,7 @@
+,real,fraud
+has_email,0.1,0.939
+has_url,0.17,0.016
+has_phone,0.106,0.003
+money_words,0.569,0.958
+urgency,0.07,0.009
+all_caps_title,0.02,0.003
