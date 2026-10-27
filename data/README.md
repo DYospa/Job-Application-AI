@@ -6,8 +6,8 @@ Raw and processed data are not stored in git (too large). Put files here locally
 
 | File | Download from |
 |---|---|
-| `fake_job_postings.csv` | Kaggle fake job postings dataset (17,880 postings, 866 fraud) |
-| `Fake_Postings.csv` | Kaggle synthetic fake postings (comparison only) |
+| `fake_job_postings.csv` | https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction |
+| `Fake_Postings.csv` | https://www.kaggle.com/datasets/srisaisuhassanisetty/fake-job-postings/data |
 | `linkedin/postings.csv` | https://www.kaggle.com/datasets/arshkon/linkedin-job-postings (unzip into `linkedin/`) |
 | `us_jobpostings_kaggle.zip` | https://www.kaggle.com/datasets/techmap/us-job-postings-from-2023-05-05 |
 
