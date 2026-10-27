@@ -1,0 +1,20 @@
+# data and models (share on Google Drive instead)
+data/raw/
+data/processed/
+models/
+output/
+
+# experiment tracking runs (synced to wandb.ai)
+reports/wandb/
+wandb/
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+
+# OS files
+.DS_Store
+__MACOSX/

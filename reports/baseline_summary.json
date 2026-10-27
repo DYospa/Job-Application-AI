@@ -1,0 +1,11 @@
+{
+  "best_config": {
+    "C": "3.0",
+    "ngram": "(1, 2)"
+  },
+  "threshold_from_val": 0.7325120715059781,
+  "fit_seconds_final": 19.711014906000003,
+  "sweep_fit_seconds_mean": 12.649173183833346,
+  "train_rows": 14492,
+  "train_fraud_rate": 0.033604747446867235
+}
