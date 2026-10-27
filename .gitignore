@@ -1,7 +1,7 @@
 # data and models (share on Google Drive instead)
 data/raw/
 data/processed/
-models/
+/models/
 output/
 
 # experiment tracking runs (synced to wandb.ai)
