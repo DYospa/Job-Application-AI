@@ -41,10 +41,10 @@ before it is submitted.
 
 | Dataset | Use | Source |
 |---|---|---|
-| Fake job postings (`fake_job_postings.csv`) | Labeled real/fraud postings, the fraud target | Kaggle |
+| Fake job postings (`fake_job_postings.csv`) | Labeled real/fraud postings, the fraud target | Kaggle: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction |
 | LinkedIn Job Postings 2023-24 | Extra real postings, Checkpoint 1 EDA | Kaggle: arshkon/linkedin-job-postings |
 | US Job Postings 2023-05-05 | Extra real postings, Checkpoint 1 EDA | Kaggle: techmap/us-job-postings-from-2023-05-05 |
-| Synthetic `Fake_Postings.csv` | Not used for training (one repeated template); comparison only | Kaggle |
+| Synthetic `Fake_Postings.csv` | Not used for training (one repeated template); comparison only | Kaggle: https://www.kaggle.com/datasets/srisaisuhassanisetty/fake-job-postings/data |
 
 Raw files are not stored in git. See `data/README.md`.
 
