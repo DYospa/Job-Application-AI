@@ -6,7 +6,7 @@ output/
 
 # experiment tracking runs (synced to wandb.ai)
 reports/wandb/
-wandb/
+/wandb/
 
 # python / notebooks
 __pycache__/
